@@ -15,10 +15,10 @@ This project implements the classic Tic-Tac-Toe game where the computer plays op
 - Python
 
 ## How to Run
-1. Open Google Colab.
-2. Upload the Tic-Tac-Toe file.
-3. Run the code.
-4. Enter your moves when prompted.
+1. Clone this repository: git clone https://github.com/Kirubasri-RJ/Codmetric.git
+2. Navigate to this folder: cd Codmetric/Task2-tictactoe-minimax
+3. Run the game: python tictactoe.py
+4. Follow the on-screen prompts to play
 
 ## Algorithm Overview
 The Minimax algorithm works by simulating all possible moves and their outcomes, then choosing the move that minimizes the opponent's best possible outcome while maximizing its own.
