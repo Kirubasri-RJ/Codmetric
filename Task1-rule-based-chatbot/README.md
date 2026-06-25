@@ -14,11 +14,10 @@ A simple rule-based chatbot built as part of the Codmetric Internship Program. T
 - Python
 
 ## How to Run
-
-1. Open Google Colab.
-2. Upload the `chatbot.py` file.
-3. Run the code cell.
-4. Type your messages when prompted and receive responses from the chatbot.
+1.Clone this repository: git clone https://github.com/Kirubasri-RJ/Codmetric.git
+1.Navigate to this folder: cd Codmetric/Task1-rule-based-chatbot
+3.Run the chatbot: python chatbot.py
+4.Start typing messages in the terminal and the chatbot will respond based on the rules defined in the code
 
 ## Project Structure
 
