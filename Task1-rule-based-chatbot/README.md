@@ -1,4 +1,4 @@
-## Task 1 - Rule Based Chatbot
+# Task 1 - Rule Based Chatbot
 
 A simple rule-based chatbot built as part of the Codmetric Internship Program. This project implements a chatbot that responds to user inputs based on predefined rules and pattern matching, rather than using machine learning. It identifies keywords or patterns in user messages and returns appropriate predefined responses. The chatbot is designed to be lightweight, easy to understand, and a good demonstration of how conversational logic can work without complex AI models.
 
@@ -14,10 +14,11 @@ A simple rule-based chatbot built as part of the Codmetric Internship Program. T
 - Python
 
 ## How to Run
-1.Clone this repository: git clone https://github.com/Kirubasri-RJ/Codmetric.git
-2.Navigate to this folder: cd Codmetric/Task1-rule-based-chatbot
-3.Run the chatbot: python chatbot.py
-4.Start typing messages in the terminal and the chatbot will respond based on the rules defined in the code
+
+1. Clone this repository: git clone https://github.com/Kirubasri-RJ/Codmetric.git
+2. Navigate to this folder: cd Codmetric/Task1-rule-based-chatbot
+3. Run the chatbot: python chatbot.py
+4. Start typing messages in the terminal and the chatbot will respond based on the rules defined in the code
 
 ## Project Structure
 
