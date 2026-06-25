@@ -15,7 +15,7 @@ A simple rule-based chatbot built as part of the Codmetric Internship Program. T
 
 ## How to Run
 1.Clone this repository: git clone https://github.com/Kirubasri-RJ/Codmetric.git
-1.Navigate to this folder: cd Codmetric/Task1-rule-based-chatbot
+2.Navigate to this folder: cd Codmetric/Task1-rule-based-chatbot
 3.Run the chatbot: python chatbot.py
 4.Start typing messages in the terminal and the chatbot will respond based on the rules defined in the code
 
