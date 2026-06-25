@@ -15,10 +15,11 @@ This project implements an expert system that mimics the decision-making process
 - Python
 
 ## How to Run
-1. Clone this repository: git clone https://github.com/Kirubasri-RJ/Codmetric.git
-2. Navigate to this folder: cd Codmetric/Task3-expert-system-diagnosis
-3. Run the program: python expert_system.py
-4. Follow the on-screen prompts to get a diagnosis
+1. Open Google Colab.
+2. Upload the Expert System file.
+3. Run the code.
+4. Answer the questions displayed on the screen.
+5. View the diagnosis and suggested solution.
 
 ## How It Works
 The system stores a set of rules (if-then logic) representing expert knowledge. When the user provides inputs, the system checks them against these rules to infer the most likely diagnosis or outcome.
